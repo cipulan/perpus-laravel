@@ -1,0 +1,3 @@
+[submodule "perpus-laravel"]
+	path = perpus-laravel
+	url = https://github.com/academynusa/perpus-laravel.git
